@@ -13,6 +13,7 @@ Solutions must be based on Generative AI, applied to provide a model able to pro
 number of candidate compounds, ensuring feasibility and good performances.
 
 <h2>Evaluation Criteria</h2>
+
 * Follows the given constraints: The given raw materials had been grouped into 6 categories, and the output frictional materials should have their compositions in a given [min,max] range for each category.
 * Technical Relevance: Does the output synthetic performance data follow the patterns and capture the relationships amongst different variables historically seen?
 * Target Performance: The most important variable for a friction material is its mu (coefficient of friction). Does the output mu have the value we expect?
