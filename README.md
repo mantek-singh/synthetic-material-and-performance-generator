@@ -39,15 +39,16 @@ Essentially, we had 3 basic components
 
 The code has been added in the [notebooks](https://github.com/mantek-singh/synthetic-material-and-performance-generator/blob/main/Brembo-C1-Presentation.pdf) folder.
 
-
-
-<h2>Presentation</h2>
-
-The presentation has been added [here](https://github.com/mantek-singh/synthetic-material-and-performance-generator/blob/main/Brembo-C1-Presentation.pdf). The files are:
+The files are:
 * Brembo_Start.ipynb: Initial EDA
 * Brembo_C1_DataGenerator.ipynb: Logic for finetuning and prompt tuning the data generator
 * Brembo_C1_UseDataGenerator.ipynb: Logic for making api calls to the fine tuned model
 * Brembo_C1_Merge_CSVs.ipynb: Utility to merge the generated performance data files.
+
+
+<h2>Presentation</h2>
+
+The presentation has been added [here](https://github.com/mantek-singh/synthetic-material-and-performance-generator/blob/main/Brembo-C1-Presentation.pdf).
 
 // TODO(manteksingh): Add tips and tricks here.
 
