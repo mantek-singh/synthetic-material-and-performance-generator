@@ -25,6 +25,12 @@ Essentially, we had 3 basic components
   are inversely related to each other over time, deceleration seems to follow a linear pattern while temperature increase curve seems more exponential in nature) to rate how
   good or bad the synthetic performance data is. This can be used to give human feedback to the model to improve the system performance.
 
+<h2>Evaluation Criteria</h2>
+* Follows the given constraints: The given raw materials had been grouped into 6 categories, and the output frictional materials should have their compositions in a given [min,max] range for each category.
+* Technical Relevance: Does the output synthetic performance data follow the patterns and capture the relationships amongst different variables historically seen?
+* Target Performance: The most important variable for a friction material is its mu (coefficient of friction). Does the output mu have the value we expect?
+* Variability: How different from the current materials are the output new materials' compositions?
+
 <h2>Low level design</h2>
 // TODO(manteksingh): Add detailed explanation.
 
