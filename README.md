@@ -39,4 +39,5 @@ The files are:
 <h2>Conclusion</h2>
 
 We WON!! 🥳 🍺 
-![alt text](https://github.com/mantek-singh/synthetic-material-and-performance-generator/blob/main/assets/brembo_win_image.png?raw=true)
+![image](https://github.com/user-attachments/assets/c8a9db20-e999-43be-a76b-0b0aa22a3248)
+
